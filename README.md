@@ -1,2 +1,1 @@
-# hello-world
-Revising version control
+Testing editing functionality.
